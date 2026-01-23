@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Computer Engineering Student in Berlin<br>👩🏻‍🎓 Studying Computer Engineering at the University of Applied Sciences<br>🛠️ Interested in embedded systems, Robotics, electronics and everything mechanical
 
 
